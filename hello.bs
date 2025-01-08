@@ -1,0 +1,12 @@
+# O comando DISPLAY exibe algo na tela, esse algo pode ser uma cadeia de caracteres
+DISPLAY "Hello, World!"
+
+# UM número inteiro
+DISPLAY 1
+
+# Um número decimal
+DISPLAY 12.5
+
+# O comando display também é "case insensitive", isso significa que o compilador não se importa se as letras são maiúsculas ou não
+# Se os caracteres forem os corretos, ele vai entender
+display "case insensitive"
